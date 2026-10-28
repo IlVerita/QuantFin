@@ -1,6 +1,7 @@
 # Python virtual environment
 .venv/
 venv/
+.venv-py39/
 
 # Jupyter
 .ipynb_checkpoints/
