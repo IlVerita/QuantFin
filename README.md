@@ -55,7 +55,7 @@ $$
 $$
 
 $$
-\operatorname{Var}(R_t\mid\mathcal{F}_{t-1}) = \Sigma_t^2.
+\text{Var}(R_t\mid\mathcal{F}_{t-1}) = \Sigma_t^2.
 $$
 
 Although returns are theoretically uncorrelated at nonzero time lags, squared returns may exhibit nonzero autocorrelations.
